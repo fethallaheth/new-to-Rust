@@ -15,3 +15,15 @@ Welcome to my Rust learning journey! This repository contains a series of mini-p
   - How to handle user input with the `std::io` module.
   - Basic error handling in Rust using `expect`.
   - Parsing strings to integers using `trim()` and `parse()`.
+
+### [Project-02 - Simple Calculator](https://github.com/fethallaheth/rust-projects/tree/master/simple_calculator)
+
+#### Overview
+This is a simple command-line calculator that allows the user to input two numbers and perform basic arithmetic operations (addition, subtraction, multiplication, and division). The program handles input parsing, validates the user's input, and performs the selected operation.
+
+#### What I Learned
+- How to use the `std::io` module to handle input and output in Rust.
+- Implementing basic arithmetic operations with functions.
+- Using `f64::is_nan` to validate input.
+- Understanding the `match` statement for control flow.
+- Parsing and converting string inputs to floating-point numbers.
