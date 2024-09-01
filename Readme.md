@@ -4,7 +4,7 @@ Welcome to my Rust learning journey! This repository contains a series of mini-p
 
 ## Projects 
 
-### [**Project-01 - Guessing Game**](https://github.com/fethallaheth/rust-projects/tree/master/01%20-%20Guessing_game)
+### [Project-01 - Guessing Game](https://github.com/fethallaheth/rust-projects/tree/master/01%20-%20Guessing_game)
   
   #### Overview
   This is a simple command-line guessing game where the user has to guess a randomly generated number between 1 and 100. The game provides feedback on whether the guessed number is too small, too big, or correct. The game continues until the correct number is guessed.
@@ -16,7 +16,7 @@ Welcome to my Rust learning journey! This repository contains a series of mini-p
   - Basic error handling in Rust using `expect`.
   - Parsing strings to integers using `trim()` and `parse()`.
 
-### [Project-02 - Simple Calculator](https://github.com/fethallaheth/rust-projects/tree/master/simple_calculator)
+### [Project-02 - Simple Calculator](https://github.com/fethallaheth/rust-projects/tree/master/02%20-%20Calculator)
 
 #### Overview
 This is a simple command-line calculator that allows the user to input two numbers and perform basic arithmetic operations (addition, subtraction, multiplication, and division). The program handles input parsing, validates the user's input, and performs the selected operation.
@@ -32,7 +32,7 @@ Here's a README section tailored for your string reversal project:
 
 ---
 
-### [Project-03 - Reverse String CLI](https://github.com/fethallaheth/rust-projects/tree/master/reverse_string_cli)
+### [Project-03 - Reverse String CLI](https://github.com/fethallaheth/rust-projects/tree/master/03%20-%20Reverse_string_cli)
 
 #### Overview
 This project is a command-line tool that allows the user to input a string and returns the string in reverse order. The program demonstrates basic string manipulation in Rust, including reading user input, processing strings, and outputting results to the console.
