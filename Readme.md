@@ -45,4 +45,14 @@ This project is a command-line tool that allows the user to input a string and r
 - Basics of Rust's memory management and ownership model.
 
 ---
+### [Project-04 - Natural Language Detector](https://github.com/fethallaheth/rust-projects/tree/master/04%20-%20Natural_language_detector)
 
+#### Overview
+This project is a command-line tool that detects the language of the input text using the whatlang crate. The program reads a string provided by the user, analyzes it to determine the language, script, confidence level, and reliability of the detection, and then outputs these details to the console.
+
+#### What I Learned
+- Language Detection: Utilized the whatlang crate to identify the language of the input text.
+- User Input Handling: Managed user input and output using the std::io module, including reading from the console and flushing output.
+- String Processing: Worked with string slices (&str) and the String type for text manipulation.
+- Error Handling: Implemented basic error handling for cases where language detection may fail, using match for more robust error handling.
+- CLI Development: Built a simple command-line interface (CLI) application that interacts with users and processes their input.
