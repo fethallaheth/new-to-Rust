@@ -4,7 +4,7 @@ Welcome to my Rust learning journey! This repository contains a series of mini-p
 
 ## Projects 
 
-- [**Project-01 - Guessing Game**](https://github.com/fethallaheth/rust-projects/tree/master/guessing_game)
+### [**Project-01 - Guessing Game**](https://github.com/fethallaheth/rust-projects/tree/master/01%20-%20Guessing_game)
   
   #### Overview
   This is a simple command-line guessing game where the user has to guess a randomly generated number between 1 and 100. The game provides feedback on whether the guessed number is too small, too big, or correct. The game continues until the correct number is guessed.
