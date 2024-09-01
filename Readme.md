@@ -27,3 +27,22 @@ This is a simple command-line calculator that allows the user to input two numbe
 - Using `f64::is_nan` to validate input.
 - Understanding the `match` statement for control flow.
 - Parsing and converting string inputs to floating-point numbers.
+
+Here's a README section tailored for your string reversal project:
+
+---
+
+### [Project-03 - Reverse String CLI](https://github.com/fethallaheth/rust-projects/tree/master/reverse_string_cli)
+
+#### Overview
+This project is a command-line tool that allows the user to input a string and returns the string in reverse order. The program demonstrates basic string manipulation in Rust, including reading user input, processing strings, and outputting results to the console.
+
+#### What I Learned
+- Handling user input using the `std::io` module.
+- String manipulation in Rust, including trimming whitespace and reversing characters.
+- Working with functions, including passing arguments and returning values.
+- Understanding string slices (`&str`) and heap-allocated `String` types.
+- Basics of Rust's memory management and ownership model.
+
+---
+
