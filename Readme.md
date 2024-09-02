@@ -56,3 +56,21 @@ This project is a command-line tool that detects the language of the input text 
 - String Processing: Worked with string slices (&str) and the String type for text manipulation.
 - Error Handling: Implemented basic error handling for cases where language detection may fail, using match for more robust error handling.
 - CLI Development: Built a simple command-line interface (CLI) application that interacts with users and processes their input.
+
+--- 
+### [Project-05 - Task_manager](https://github.com/fethallaheth/rust-projects/tree/master/05%20-%20Task_manager)
+
+#### Overview
+The Task Manager is a simple command-line interface (CLI) tool written in Rust that helps users manage their to-do list. The tool allows users to add tasks, list all tasks, and mark tasks as completed. It is a beginner-friendly project designed to demonstrate basic concepts in Rust, including struct usage, method implementation, and control flow.
+
+#### Key Features:
+- **Add Tasks**: Users can add new tasks to their to-do list.
+- **List Tasks**: The tool displays all tasks along with their completion status.
+- **Complete Tasks**: Users can mark tasks as completed.
+
+#### What I Learned:
+- **Structs and Methods**: How to define and implement methods for custom data types.
+- **Vector Manipulation**: Storing and manipulating a dynamic list of tasks.
+- **Input Handling**: Reading and processing user input from the command line.
+- **Control Flow**: Using loops and pattern matching to create an interactive menu.
+- **Error Handling**: Managing potential errors and ensuring a smooth user experience.
